@@ -144,7 +144,7 @@ sudo apt install -y \
     libopenblas-dev liblapack-dev gfortran \
     python3-dev python3-numpy libtbb-dev \
     libdc1394-dev qtbase5-dev liblapacke-dev \
-    i2c-tools python3-smbus2 python3-picamera2
+    i2c-tools -smbus2 -picamera2
 ```
 
 #### 4. Compile OpenCV 4.11.0
@@ -293,7 +293,7 @@ CONFIG = {
 ### Main Tracking Program
 
 ```bash
-python3 main5_all_in_4_record_video.py
+python3 final.py
 ```
 
 **Keyboard Controls:**
@@ -574,4 +574,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <p align="center">
   <a href="#-table-of-contents">⬆ Back to Top</a>
 </p>
+
 
