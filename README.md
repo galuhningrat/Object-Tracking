@@ -568,9 +568,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/yourusername">Your Name</a>
+  Made with ❤️ by <a href="https://github.com/yourusername">Galuh Ningrat</a>
 </p>
 
 <p align="center">
   <a href="#-table-of-contents">⬆ Back to Top</a>
 </p>
+
